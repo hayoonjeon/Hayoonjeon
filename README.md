@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Hayoonjeon?pet-id=642212583922701813"
+    width="600"
+    height="120"
+  />
+</a>
 <!--
 **hayoonjeon/Hayoonjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
